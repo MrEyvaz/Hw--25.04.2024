@@ -1,0 +1,147 @@
+header {
+    background-color: rgb(46, 47, 52);
+    border-radius: 10px;
+    height: 135px;
+}
+
+.cov {
+    display: flex;
+}
+
+.container ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    margin-top: 2px
+}
+
+.cov {
+    display: flex;
+    justify-content: center;
+}
+
+.cov h1 {
+    color: white;
+}
+
+.container li {
+    color: white;
+}
+
+main {
+    background-color: #7cbbed;
+}
+
+.text {
+    padding: 100px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 1px lightgrey, 1px 1px 5px 1px lightgrey;
+}
+
+.coventry {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    box-shadow: 1px 1px 5px 1px lightgrey;
+    border-radius: 10px;
+    height: 674px;
+}
+
+.number {
+    width: 50%;
+    margin: 0 50px;
+    box-shadow: 1px 1px 5px 1px lightgrey, 1px 1px 5px 1px lightgrey;
+    height: 230px;
+    margin-top: -319px;
+}
+
+.maindiv2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 174%;
+}
+
+.project {
+    margin-top: -376px;
+    box-shadow: 0px 0px 1px 0px, 1px 1px 5px 1px lightgrey;
+    height: 355px;
+    width: 430px;
+    margin-left: -50px;
+}
+
+.contact {
+    margin-top: -376px;
+    box-shadow: 0px 0px 2px 0px, 1px 1px 5px 1px lightgrey;
+    height: 354px;
+    margin-right: 750px;
+    width: 430px;
+}
+
+input {
+    display: flex;
+}
+
+.send {
+    margin-left: 157px;
+    margin-top: 22px;
+    padding-left: 36px;
+    padding-right: 36px;
+    background-color: #7cbbed;
+    border-radius: 10px;
+}
+
+.bor {
+    margin-left: 120px;
+}
+
+label {
+    margin-left: 120px;
+}
+
+.bor mail {
+    margin-left: 120px;
+}
+
+.contact h1 {
+    margin-left: 150px;
+}
+
+.footerdiv {
+    background-color: #1e1f1f;
+    padding: 3px;
+    border-radius: 10px;
+}
+
+.footerdiv p {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.container a {
+    color: white;
+}
+
+.container a{
+    text-decoration: none;
+}
+
+.nu {
+    border: 10px solid green;
+}
+
+.hob {
+    border: 10px solid bisque;
+}
+
+.pro {
+    border: 10px solid red;
+}
+
+.cont {
+    border: 10px solid yellowgreen;
+}
